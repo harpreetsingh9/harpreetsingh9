@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 - 🤔 &nbsp; Passionate about writing code, solving problems, and building software.
 - 🎓 &nbsp; Studying B.Tech in Information Technology at Poornima College of Engineering, Jaipur.
-- 💼 &nbsp; I’m looking for a software development internship.
-- 🌱 &nbsp; Learning more about Full stack web development using ReactJS, NodeJS, ExpressJS and MongoDB.
+- 💼 &nbsp; I’m looking for a software developer role.
+- 🌱 &nbsp; Learning more about Full stack web development using Nextjs, ReactJS, NodeJS, ExpressJS and MongoDB.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  Nextjs, Tailwind css
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
