@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/harpreetsingh9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harpreetsingh9&count_private=true&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harpreetsingh9&count_private=true&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harpreetsingh9&theme=buefy&layout=compact" />
 </a>
 
