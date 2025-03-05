@@ -31,25 +31,27 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Passionate about writing code, solving problems, and building software.
-- 🎓 &nbsp; Studying B.Tech in Information Technology at Poornima College of Engineering, Jaipur.
+- 🤔 &nbsp; Passionate about building high quality products, writing code, and solving problems.
 - 💼 &nbsp; I’m looking for a software developer role.
-- 🌱 &nbsp; Learning more about Full stack web development using Nextjs, ReactJS, NodeJS, ExpressJS and MongoDB.
+- 💻 &nbsp; Currently working as Associate Software Engineer at Carelon Global Solutions.
+- 🎓 &nbsp; Studied B.Tech in Information Technology at Poornima College of Engineering, Jaipur.
+
+- 🌱 &nbsp; Highly skilled in JavaScript, React.js, Next.js and Learning more about Full stack development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  Nextjs, Tailwind css
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  Nextjs, Tailwind css
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -78,9 +80,6 @@ Here are some ideas to get you started:
 </a>
 <a href="https://leetcode.com/singhharpreet9/">
   <img align="left" alt="Harpreet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/harpreet9">
-  <img align="left" alt="Harpreet's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://twitter.com/HarpreetSingh9_">
   <img align="left" alt="Harpreet's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
